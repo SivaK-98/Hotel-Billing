@@ -1,0 +1,4 @@
+{
+  "mongodb": "mongodb+srv://awstestuser1998:awstestuser1998@cluster0.nb2lq1w.mongodb.net/",
+  "redis": "redis-12620.c325.us-east-1-4.ec2.cloud.redislabs.com:12620:wvo8qHfWtONPL21X3gH75zZ71fCtNkC5"
+}
